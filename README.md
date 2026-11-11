@@ -8,8 +8,6 @@
 
 Software Engineering Student.
 
-Interested in desktop applications, backend development, REST APIs and software architecture.
-
 ### 02 / TECHNOLOGIES
 
 ```text
