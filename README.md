@@ -1,39 +1,23 @@
+# TAKKASAMA.
 
-## 📊 GitHub Statistics
+`SOFTWARE DEVELOPMENT` / `JAVA` / `C++` / `LINUX`
 
-<div align="center">
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takkasama&theme=github_dark" height="170"/>
+### 01 / ABOUT
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takkasama&theme=github_dark" height="170"/>
+Software Engineering Student.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takkasama&theme=github_dark" height="170"/>
+Interested in desktop applications, backend development, REST APIs and software architecture.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takkasama&theme=github_dark&utcOffset=-6" height="170"/>
+### 02 / TECHNOLOGIES
 
-</div>
+```text
+LANGUAGES    Java / C++ / SQL / HTML / CSS
+FRAMEWORKS   JavaFX / Jakarta EE / PrimeFaces / SFML
+DATABASE     Oracle Database
+TOOLS        Git / GitHub / Maven / NetBeans
+SYSTEM       Arch Linux / Hyprland
+```
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=takkasama&theme=darkhub&no-frame=true&no-bg=true&row=1" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/takkasama/takkasama/output/snake-dark.svg"
-  />
-  <img
-    alt="Snake animation"
-    src="https://raw.githubusercontent.com/takkasama/takkasama/output/snake.svg"
-  />
-</picture>
-
-</div>
+<sub>TAKKASAMA © 2026 — SOFTWARE DEVELOPMENT</sub>
