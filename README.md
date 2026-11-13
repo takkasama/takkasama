@@ -11,8 +11,8 @@ Software Engineering Student.
 ### 02 / TECHNOLOGIES
 
 ```text
-LANGUAGES    Java / C++ / SQL / HTML / CSS
-FRAMEWORKS   JavaFX / Jakarta EE / PrimeFaces / SFML
+LANGUAGES    Java / C++ / SQL / HTML / CSS / QML
+FRAMEWORKS   JavaFX / Jakarta EE / PrimeFaces / SFML / RAYLIB
 DATABASE     Oracle Database
 TOOLS        Git / GitHub / Maven / NetBeans
 SYSTEM       Arch Linux / Hyprland
